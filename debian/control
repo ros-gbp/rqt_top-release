@@ -1,0 +1,12 @@
+Source: ros-lunar-rqt-top
+Section: misc
+Priority: extra
+Maintainer: Dan Lazewatsky <dan@lazewatsky.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin
+Homepage: http://wiki.ros.org/rqt_top
+Standards-Version: 3.9.2
+
+Package: ros-lunar-rqt-top
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-psutil, ros-lunar-python-qt-binding (>= 0.2.19), ros-lunar-rospy, ros-lunar-rqt-gui, ros-lunar-rqt-gui-py
+Description: RQT plugin for monitoring ROS processes.
