@@ -1,3 +1,26 @@
+## rqt_top (melodic) - 0.4.8-0
+
+The packages in the `rqt_top` repository were released into the `melodic` distro by running `/usr/bin/bloom-release rqt_top --track melodic --rosdistro melodic --edit` on `Fri, 27 Apr 2018 20:55:48 -0000`
+
+The `rqt_top` package was released.
+
+Version of package(s) in repository `rqt_top`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_top.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.8-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## rqt_top (kinetic) - 0.4.8-0
 
 The packages in the `rqt_top` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic rqt_top --edit` on `Fri, 28 Apr 2017 18:41:47 -0000`
