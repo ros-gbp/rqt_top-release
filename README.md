@@ -1,3 +1,26 @@
+## rqt_top (noetic) - 0.4.9-1
+
+The packages in the `rqt_top` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic rqt_top` on `Tue, 17 Mar 2020 21:48:35 -0000`
+
+The `rqt_top` package was released.
+
+Version of package(s) in repository `rqt_top`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_top.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.9-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_top (melodic) - 0.4.8-0
 
 The packages in the `rqt_top` repository were released into the `melodic` distro by running `/usr/bin/bloom-release rqt_top --track melodic --rosdistro melodic --edit` on `Fri, 27 Apr 2018 20:55:48 -0000`
