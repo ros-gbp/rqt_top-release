@@ -1,0 +1,167 @@
+ros-noetic-rqt-top (0.4.10-1buster) buster; urgency=high
+
+  * Merge pull request #13 <https://github.com/ros-visualization/rqt_top/issues/13> from ros-visualization/sloretz-update-maintainers
+    Update maintainers in package.xml
+  * Update maintainers in package.xml
+  * fix shebang line for python3 (#9 <https://github.com/ros-visualization/rqt_top/issues/9>)
+  * Contributors: Michael Carroll, Mikael Arguedas, Shane Loretz
+
+ -- Michael Carroll <michael@openrobotics.org>  Tue, 20 Apr 2021 22:00:00 -0000
+
+ros-noetic-rqt-top (0.4.9-1buster) buster; urgency=high
+
+  * use conditional dependencies for Python 3 (#7 <https://github.com/ros-visualization/rqt_top/issues/7>)
+  * bump CMake minimum version to avoid CMP0048 warning
+  * autopep8 (#5 <https://github.com/ros-visualization/rqt_top/issues/5>)
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Mon, 16 Mar 2020 23:00:00 -0000
+
+ros-noetic-rqt-top (0.4.8-1buster) buster; urgency=high
+
+
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Sun, 23 Apr 2017 22:00:00 -0000
+
+ros-noetic-rqt-top (0.4.7-1buster) buster; urgency=high
+
+
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Wed, 01 Mar 2017 23:00:00 -0000
+
+ros-noetic-rqt-top (0.4.6-1buster) buster; urgency=high
+
+
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Sun, 26 Feb 2017 23:00:00 -0000
+
+ros-noetic-rqt-top (0.4.5-1buster) buster; urgency=high
+
+
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Thu, 02 Feb 2017 23:00:00 -0000
+
+ros-noetic-rqt-top (0.4.4-1buster) buster; urgency=high
+
+  * use Python 3 compatible syntax (#421 <https://github.com/ros-visualization/rqt_common_plugins/pull/421>)
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Mon, 23 Jan 2017 23:00:00 -0000
+
+ros-noetic-rqt-top (0.4.3-1buster) buster; urgency=high
+
+
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Tue, 01 Nov 2016 23:00:00 -0000
+
+ros-noetic-rqt-top (0.4.2-1buster) buster; urgency=high
+
+
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Sun, 18 Sep 2016 22:00:00 -0000
+
+ros-noetic-rqt-top (0.4.1-1buster) buster; urgency=high
+
+
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Sun, 15 May 2016 22:00:00 -0000
+
+ros-noetic-rqt-top (0.4.0-1buster) buster; urgency=high
+
+  * Support Qt 5 (in Kinetic and higher) as well as Qt 4 (in Jade and earlier) (#359 <https://github.com/ros-visualization/rqt_common_plugins/pull/359>)
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Tue, 26 Apr 2016 22:00:00 -0000
+
+ros-noetic-rqt-top (0.3.13-1buster) buster; urgency=high
+
+  * rqt_top: fix exception catching
+  * Contributors: Benjamin Chrétien
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Mon, 07 Mar 2016 23:00:00 -0000
+
+ros-noetic-rqt-top (0.3.12-1buster) buster; urgency=high
+
+
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Thu, 23 Jul 2015 22:00:00 -0000
+
+ros-noetic-rqt-top (0.3.11-1buster) buster; urgency=high
+
+  * fix information when nodes are restarted, remove dead nodes from memory (#294 <https://github.com/ros-visualization/rqt_common_plugins/issues/294>)
+  * fix rqt_top script (#303 <https://github.com/ros-visualization/rqt_common_plugins/issues/303>)
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Wed, 29 Apr 2015 22:00:00 -0000
+
+ros-noetic-rqt-top (0.3.10-1buster) buster; urgency=high
+
+  * update plugin scripts to use full name to avoid future naming collisions
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Tue, 30 Sep 2014 22:00:00 -0000
+
+ros-noetic-rqt-top (0.3.9-1buster) buster; urgency=high
+
+
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Sun, 17 Aug 2014 22:00:00 -0000
+
+ros-noetic-rqt-top (0.3.8-1buster) buster; urgency=high
+
+
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Mon, 14 Jul 2014 22:00:00 -0000
+
+ros-noetic-rqt-top (0.3.7-1buster) buster; urgency=high
+
+  * export architecture_independent flag in package.xml (#254 <https://github.com/ros-visualization/rqt_common_plugins/issues/254>)
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Thu, 10 Jul 2014 22:00:00 -0000
+
+ros-noetic-rqt-top (0.3.6-1buster) buster; urgency=high
+
+
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Sun, 01 Jun 2014 22:00:00 -0000
+
+ros-noetic-rqt-top (0.3.5-1buster) buster; urgency=high
+
+
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Tue, 06 May 2014 22:00:00 -0000
+
+ros-noetic-rqt-top (0.3.4-1buster) buster; urgency=high
+
+  * fix sort order for numerical fields (#205 <https://github.com/ros-visualization/rqt_common_plugins/issues/205>)
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Mon, 27 Jan 2014 23:00:00 -0000
+
+ros-noetic-rqt-top (0.3.3-1buster) buster; urgency=high
+
+  * add groups for rqt plugins, renamed some plugins (#167 <https://github.com/ros-visualization/rqt_common_plugins/issues/167>)
+  * fix an error caused by SIGKILLing nodes
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Tue, 07 Jan 2014 23:00:00 -0000
+
+ros-noetic-rqt-top (0.3.2-1buster) buster; urgency=high
+
+
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Sun, 13 Oct 2013 22:00:00 -0000
+
+ros-noetic-rqt-top (0.3.1-1buster) buster; urgency=high
+
+
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Tue, 08 Oct 2013 22:00:00 -0000
+
+ros-noetic-rqt-top (0.3.0-1buster) buster; urgency=high
+
+  * remove copy of psutil module and implement missing function (#105 <https://github.com/ros-visualization/rqt_common_plugins/issues/105>)
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Tue, 27 Aug 2013 22:00:00 -0000
+
+ros-noetic-rqt-top (0.2.17-1buster) buster; urgency=high
+
+  * Embeds python-psutil in the package in order to be enabled on Ubuntu Precise
+  * first release of this package into hydro
+
+ -- Dan Lazewatsky <dan@lazewatsky.com>  Fri, 05 Jul 2013 22:00:00 -0000
+
+
